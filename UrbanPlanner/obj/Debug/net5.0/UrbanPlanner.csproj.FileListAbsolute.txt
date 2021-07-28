@@ -1,0 +1,16 @@
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\bin\Debug\net5.0\UrbanPlanner.exe
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\bin\Debug\net5.0\UrbanPlanner.deps.json
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\bin\Debug\net5.0\UrbanPlanner.runtimeconfig.json
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\bin\Debug\net5.0\UrbanPlanner.runtimeconfig.dev.json
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\bin\Debug\net5.0\UrbanPlanner.dll
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\bin\Debug\net5.0\ref\UrbanPlanner.dll
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\bin\Debug\net5.0\UrbanPlanner.pdb
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\obj\Debug\net5.0\UrbanPlanner.csproj.AssemblyReference.cache
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\obj\Debug\net5.0\UrbanPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\obj\Debug\net5.0\UrbanPlanner.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\obj\Debug\net5.0\UrbanPlanner.AssemblyInfo.cs
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\obj\Debug\net5.0\UrbanPlanner.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\obj\Debug\net5.0\UrbanPlanner.dll
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\obj\Debug\net5.0\ref\UrbanPlanner.dll
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\obj\Debug\net5.0\UrbanPlanner.pdb
+C:\Users\honey\source\repos\UrbanPlanner\UrbanPlanner\obj\Debug\net5.0\UrbanPlanner.genruntimeconfig.cache
